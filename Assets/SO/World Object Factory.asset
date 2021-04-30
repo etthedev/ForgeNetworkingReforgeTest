@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93e3423c143c6846aee058cd7b52e8b, type: 3}
+  m_Name: World Object Factory
+  m_EditorClassIdentifier: 
+  _worldObjects:
+  - {fileID: 114901706737518510, guid: c0f8dfc76b6e2ea4c96e010aff57440b, type: 2}
+  - {fileID: 114429705631286192, guid: 364c90f954656ee41899ad3357aa47ef, type: 2}
+  - {fileID: 114510176812612336, guid: fee4ac97446297040bf29715f29833c3, type: 2}
+  _materials:
+  - {fileID: 2100000, guid: 9809406109182824b84a42fbb01819ab, type: 2}
+  - {fileID: 2100000, guid: f100bf814fab55c46a6f88c16acad513, type: 2}
+  - {fileID: 2100000, guid: 3c40aaa5b682a5e408e62a0d0e9dfaca, type: 2}
+  _namePrefix:
+  - Taboo
+  - Massive
+  - Frantic
+  - Shaky
+  - abiding
+  - proud
+  - nervous
+  - handy
+  - yummy
+  - parched
+  - plausible
+  - thankful
+  - squeamish
+  - draconian
+  - salty
+  - massive
+  - ancient
+  - beneficial
+  - worthless
+  - same
+  - confused
+  - meaty
+  - moaning
+  - dirty
+  - deadpan
+  - aback
+  - dapper
+  - scrawny
+  - staking
+  - undisputed
+  _nameSuffix:
+  - cave
+  - vest
+  - nest
+  - slip
+  - lock
+  - glass
+  - blood
+  - crack
+  - salt
+  - pipe
+  - gate
+  - wheel
+  - marble
+  - spark
+  - pain
+  - crown
+  - channel
+  - box
+  - vein
+  - seed
+  - fuel
+  - temper
+  - quilt
+  - pest
+  - waves
+  - record
+  - rifle
+  - start
+  - throne
+  - axe
